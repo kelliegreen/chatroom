@@ -20,6 +20,7 @@ body {
 
 .main-container h1 {
   text-align: center;
+
 }
 
 .text-box {
@@ -31,4 +32,15 @@ p{
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+}
+
+.messages-container p{
+  border: 1px solid gray;
+  border-radius: 8px;
+  margin-bottom: 5 px;
+  margin-bottom: 15px;
+}
+
+button {
+  margin: 0, auto;
 }
